@@ -14,7 +14,7 @@ options = ['rock', 'paper', 'scissors']
 def game_play():
     print("Select number of players")
     print()
-    number_of_players = int(input("1 player OR 2 players 1/2: "))
+    number_of_players = int(input("1 player OR 2 players (1/2): "))
     print()
     
 
